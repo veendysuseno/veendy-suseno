@@ -134,7 +134,6 @@ This portfolio was created to present my skills, projects, and learning journey 
 - **Technical Support**
 - **Network Support**
 - **Junior IT Support**
-- **IT Infrastructure**
 
 ## Author
 
