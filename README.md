@@ -19,8 +19,8 @@ This website showcases my technical skills, projects, learning journey, educatio
 
 ## Tech Stack
 
-- **HTML5** — Website structure
-- **CSS3** — Styling, layout, animations, and responsive design
+- **HTML** — Website structure
+- **CSS** — Styling, layout, animations, and responsive design
 - **JavaScript** — Dynamic content and interactions
 - **Git & GitHub** — Version control and project hosting
 
