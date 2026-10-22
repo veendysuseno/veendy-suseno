@@ -143,6 +143,3 @@ IT Support Specialist & Network Support
 
 > Troubleshooting systems, supporting users, and keeping technology running.
 
----
-
-⭐ If you find this portfolio useful or interesting, feel free to explore the repository and my other projects.
